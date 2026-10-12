@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Nattanai Modeiam 👋</h1>
 <p align="center">
-  Full-stack developer · Web & Mobile · <b>Go</b> APIs · <b>React + TypeScript</b> · Game dev on <b>Roblox (Luau)</b>
+  Full-stack developer · Web & Mobile · <b>.NET + EF Core</b> · <b>React</b> · <b>Go</b> · Game dev on <b>Roblox (Luau)</b>
 </p>
 
 ---
@@ -8,16 +8,26 @@
 ### 🧑‍💻 About me
 
 - 💼 Full-stack developer building **web and mobile** apps, frontend and backend
-- 🚚 Currently working on a **logistics WMS** (Warehouse Management System)
-- ⚙️ Comfortable with REST APIs, real-time features (WebSocket), maps (Google Maps / Leaflet), JWT auth, and Docker
+- 🚚 Currently working on a **logistics WMS** (Warehouse Management System) with **.NET, EF Core, and React 19**
+- 🧱 Into clean architecture: layered backends, DTOs, modular services, and config-driven UIs
+- ⚙️ Also comfortable with Go, REST APIs, WebSocket, maps (Google Maps / Leaflet), JWT auth, and Docker
 - 🎮 Side project: a Roblox game in Luau, an animal collecting game with fusion and pets
 
 ### 💼 Experience
 
-| Role | Project | What I do |
-|---|---|---|
-| **Full-stack Developer** · *Current* | 🚚 **Logistics WMS** (Warehouse Management System) | Build the web app, the mobile app, and the backend services behind them |
-| **Full-stack Developer Intern** | 💰 **Finance web platform** | Built frontend pages and backend APIs |
+#### 🚚 Full-stack Developer · Logistics WMS · *Current*
+`.NET` `EF Core` `React 19` `Ant Design` `JavaScript` `Liquibase`
+
+- Build the **web app, mobile app, and their APIs** for a Warehouse Management System
+- Work across separate modules: **Inbound**, **Outbound**, **Inventory**, **Master data**, and **System config**
+- Each concern lives in its own repo: shared entities, **Liquibase** DB migrations, `web` / `web-api`, and `mobile` / `mobile-api`
+- **Config-driven UI:** forms and table columns are defined in the database (`config_form`, `config_column`), so screens can change without new frontend code
+
+#### 💰 Full-stack Developer Intern · Finance web platform
+`.NET` `EF Core` `React` `Ant Design` `JavaScript`
+
+- Built frontend pages and backend APIs
+- Backend organized in a **5-layer architecture** with **DTOs** between layers
 
 <sub>Work projects are private. The repositories below are from university.</sub>
 
@@ -57,13 +67,15 @@
 ### 🛠️ Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,ts,js,react,vite,nodejs,express,html,css,sqlite,docker,githubactions,git,lua&perline=14" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,react,js,ts,go,nodejs,vite,html,css,sqlite,docker,githubactions,git,lua&perline=15" alt="tech stack" />
 </p>
 
 | Area | Tools |
 |---|---|
-| **Backend** | Go, Gin, GORM, SQLite, JWT, WebSocket (gorilla), Node.js / Express |
-| **Frontend** | React, TypeScript, Vite, Ant Design, MUI, React Router, Axios |
+| **Backend** | .NET, C#, EF Core, Liquibase · Go, Gin, GORM · Node.js / Express |
+| **Frontend** | React 19, JavaScript, TypeScript, Ant Design, MUI, Vite, React Router, Axios |
+| **Architecture** | Layered (5-layer) backends, DTOs, modular repos, config-driven forms & columns |
+| **Data & realtime** | SQLite, JWT, WebSocket (gorilla) |
 | **Maps & UI** | Google Maps API, Leaflet, Swiper, Lottie |
 | **DevOps** | Docker, Nginx, GitHub Actions |
 | **Game dev** | Roblox Studio, Luau |
