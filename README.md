@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm FennikzZ 👋</h1>
+<h1 align="center">Hi, I'm Nattanai Modeiam 👋</h1>
 <p align="center">
   Full-stack developer · <b>Go</b> APIs · <b>React + TypeScript</b> frontends · Game dev on <b>Roblox (Luau)</b>
 </p>
