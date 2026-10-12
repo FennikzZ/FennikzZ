@@ -1,32 +1,39 @@
 <h1 align="center">Hi, I'm Nattanai Modeiam 👋</h1>
 <p align="center">
-  Full-stack developer · Web & Mobile · <b>.NET + EF Core</b> · <b>React</b> · <b>Go</b> · Game dev on <b>Roblox (Luau)</b>
+  Full-stack Developer @ <b>Axons</b> · Web & Mobile · <b>.NET + EF Core</b> · <b>React / React Native</b> · <b>Go</b>
 </p>
 
 ---
 
 ### 🧑‍💻 About me
 
-- 💼 Full-stack developer building **web and mobile** apps, frontend and backend
-- 🚚 Currently working on a **logistics WMS** (Warehouse Management System) with **.NET, EF Core, and React 19**
+- 🏢 Full-stack Developer at **Axons (CPF IT Center)**
+- 💼 Build **web and mobile** apps end to end: React / React Native frontends and .NET backends
+- 🚚 Currently working on a **logistics WMS** (Warehouse Management System) with **.NET, EF Core, React 19, and React Native**
 - 🧱 Into clean architecture: layered backends, DTOs, modular services, and config-driven UIs
 - ⚙️ Also comfortable with Go, REST APIs, WebSocket, maps (Google Maps / Leaflet), JWT auth, and Docker
 - 🎮 Side project: a Roblox game in Luau, an animal collecting game with fusion and pets
 
 ### 💼 Experience
 
-#### 🚚 Full-stack Developer · Logistics WMS · *Current*
-`.NET` `EF Core` `React 19` `Ant Design` `JavaScript` `Liquibase`
+#### 🏢 Axons (CPF IT Center)
 
-- Build the **web app, mobile app, and their APIs** for a Warehouse Management System
+**🚚 Full-stack Developer** · Group Product Logistics & Supply Chain Solutions
+<br/><sub>May 2026 – Present</sub>
+
+`.NET` `EF Core` `React 19` `React Native` `Ant Design` `JavaScript` `Liquibase`
+
+- Build the **web app, the mobile app (React Native), and their APIs** for a Warehouse Management System (WMS)
 - Work across separate modules: **Inbound**, **Outbound**, **Inventory**, **Master data**, and **System config**
 - Each concern lives in its own repo: shared entities, **Liquibase** DB migrations, `web` / `web-api`, and `mobile` / `mobile-api`
 - **Config-driven UI:** forms and table columns are defined in the database (`config_form`, `config_column`), so screens can change without new frontend code
 
-#### 💰 Full-stack Developer Intern · Finance web platform
+**💰 Full-stack Developer Intern** · Group Product Accounting & Finance Solution
+<br/><sub>Oct 2025 – Jan 2026</sub>
+
 `.NET` `EF Core` `React` `Ant Design` `JavaScript`
 
-- Built frontend pages and backend APIs
+- Built frontend pages and backend APIs for a finance web platform
 - Backend organized in a **5-layer architecture** with **DTOs** between layers
 
 <sub>Work projects are private. The repositories below are from university.</sub>
@@ -74,6 +81,7 @@
 |---|---|
 | **Backend** | .NET, C#, EF Core, Liquibase · Go, Gin, GORM · Node.js / Express |
 | **Frontend** | React 19, JavaScript, TypeScript, Ant Design, MUI, Vite, React Router, Axios |
+| **Mobile** | React Native |
 | **Architecture** | Layered (5-layer) backends, DTOs, modular repos, config-driven forms & columns |
 | **Data & realtime** | SQLite, JWT, WebSocket (gorilla) |
 | **Maps & UI** | Google Maps API, Leaflet, Swiper, Lottie |
@@ -88,6 +96,6 @@
 
 ### 📫 Contact
 
-<!-- Add the links you want to share, e.g.: -->
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle) -->
+[![Email](https://img.shields.io/badge/Fennikzz1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Fennikzz1@gmail.com)
+
 Open to collaboration. Feel free to reach out!
