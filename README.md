@@ -3,9 +3,6 @@
   Full-stack developer · <b>Go</b> APIs · <b>React + TypeScript</b> frontends · Game dev on <b>Roblox (Luau)</b>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FennikzZ&color=0e75b6&style=flat-square&label=Profile+views" alt="profile views" />
-</p>
 
 ---
 
