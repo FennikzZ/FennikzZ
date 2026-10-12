@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Nattanai Modeiam 👋</h1>
 <p align="center">
-  Full-stack Developer @ <b>Axons</b> · Web & Mobile · <b>.NET + EF Core</b> · <b>React / React Native</b> · <b>Go</b>
+  Full-stack Developer @ <b>AXONS</b> · Web & Mobile · <b>.NET + EF Core</b> · <b>React / React Native</b> · <b>Go</b>
 </p>
 
 ---
 
 ### 🧑‍💻 About me
 
-- 🏢 Full-stack Developer at **Axons (CPF IT Center)**
+- 🏢 Full-stack Developer at **CPF IT Center Co., Ltd. (AXONS Factory)** · Bangkok, Thailand
 - 💼 Build **web and mobile** apps end to end: React / React Native frontends and .NET backends
 - 🚚 Currently working on a **logistics WMS** (Warehouse Management System) with **.NET, EF Core, React 19, and React Native**
 - 🧱 Into clean architecture: layered backends, DTOs, modular services, and config-driven UIs
@@ -16,7 +16,7 @@
 
 ### 💼 Experience
 
-#### 🏢 Axons (CPF IT Center)
+#### 🏢 CPF IT Center Co., Ltd. (AXONS Factory) · Bangkok
 
 **🚚 Full-stack Developer** · Group Product Logistics & Supply Chain Solutions
 <br/><sub>May 2026 – Present</sub>
